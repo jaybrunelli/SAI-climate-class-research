@@ -1,2 +1,3 @@
 # SAI-climate-research
-blueprint code archive for 'Stratospheric Aerosol Injection Effects on Global Climate Distribution' paper and thesis.
+code archive and analysis scripts for project: 'stratospheric aerosol injection effects on global climate distribution'
+
