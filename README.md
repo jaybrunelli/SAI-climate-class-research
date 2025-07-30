@@ -1,3 +1,2 @@
 # SAI-climate-research
-blueprint code archive for my current research...
-mostly Python scripts for manipulating G6sulfur, SSP2-4.5 and SSP5-8.5 global tas and pr data + modeling and refining Koppen-Trewartha climate classifications.
+blueprint code archive for 'Stratospheric Aerosol Injection Effects on Global Climate Distribution' paper and thesis.
